@@ -9,7 +9,7 @@ export function About() {
         <div className="row d-flex justify-content-center">
           <div className="card"
             style={{ width: "17rem", backgroundColor: "black" }}>
-            <img src="../img/aboutImage.jpg"
+            <img src="/img/aboutImage.jpg"
               className="rounded-circle card-img-top pt-3" alt="" />
             <div className="card-body">
               <div

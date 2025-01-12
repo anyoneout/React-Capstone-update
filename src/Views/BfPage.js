@@ -170,7 +170,7 @@ export function BfPage() {
                 <div className="row" style={{ minHeight: "20vh" }}>
                     <div className="col-3 align-items-start d-flex">
                         <img
-                            src="../img/bFFLogo.jpg"
+                            src="/img/bFFLogo.jpg"
                             id="blackForestImage"
                             className="ps-2"
                             style={{ width: "100px" }}
