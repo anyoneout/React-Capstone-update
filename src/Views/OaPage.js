@@ -170,7 +170,7 @@ export function OaPage() {
                 <div className="row" style={{ minHeight: "20vh" }}>
                     <div className="col-3 align-items-start d-flex">
                         <img
-                            src="/img/dallE3Logo.jpg"
+                            src="img/dallE3Logo.jpg"
                             id="dallEImage"
                             style={{ width: "250px" }}
                             alt=""

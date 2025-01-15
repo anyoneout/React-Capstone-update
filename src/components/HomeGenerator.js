@@ -13,7 +13,7 @@ export function HomeGenerator() {
                 <div className="card"
                   style={{ width: "100%", backgroundColor: "black" }}
                 >
-                  <img src="/img/bFFLogo.jpg"
+                  <img src="img/bFFLogo.jpg"
                     alt="..."
                     style={{ width: "140%" }}
                   />
@@ -32,7 +32,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/dallE3Logo.jpg"
+                src="img/dallE3Logo.jpg"
                 alt="..."
                 style={{ width: "58%" }}
               />
@@ -78,7 +78,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/bfbsrecipe.jpg"
+                src="img/bfbsrecipe.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -88,7 +88,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/bfbsingredients.jpg"
+                src="img/bfbsingredients.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -98,7 +98,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/bfcsrecipe.jpg"
+                src="img/bfcsrecipe.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -108,7 +108,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/bfcsingredients.jpg"
+                src="img/bfcsingredients.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -120,7 +120,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/openaibsrecipe.jpg"
+                src="img/openaibsrecipe.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -130,7 +130,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/openaibsingredients.jpg"
+                src="img/openaibsingredients.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -140,7 +140,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/openaicsrecipe.jpg"
+                src="img/openaicsrecipe.jpg"
                 className="card-img"
                 alt="..."
               />
@@ -150,7 +150,7 @@ export function HomeGenerator() {
               style={{ width: "100%", backgroundColor: "black" }}
             >
               <img
-                src="/img/openaicsingredients.jpg"
+                src="img/openaicsingredients.jpg"
                 className="card-img"
                 alt="..."
               />
