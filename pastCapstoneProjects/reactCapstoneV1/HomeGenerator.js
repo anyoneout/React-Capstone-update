@@ -78,12 +78,79 @@ export function HomeGenerator() {
             <Card src="img/bfbsingredients.jpg" />
             <Card src="img/bfcsrecipe.jpg" />
             <Card src="img/bfcsingredients.jpg" />
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/bfbsingredients.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/bfcsrecipe.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/bfcsingredients.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
           </div>
           <div className="col-2">
-            <Card src="img/openaibsrecipe.jpg" />
-            <Card src="img/openaibsingredients.jpg" />
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/openaibsrecipe.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/openaibsingredients.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
             <Card src="img/openaicsrecipe.jpg" />
-            <Card src="img/openaicsingredients.jpg" />
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/openaicsrecipe.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/openaicsingredients.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
           </div>
         </div>
       </div>
