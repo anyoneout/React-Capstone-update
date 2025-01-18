@@ -12,14 +12,14 @@ export function Nav() {
               <Link to="/" style={{ fontSize: "13px" }}
                 className="link-underline-opacity-0 link-underline text-info">
                 Home
-              </Link>
+              </Link>|
               <Link to="/BfPage" style={{ fontSize: "13px" }}
                 className="link-underline-opacity-0 link-underline text-info">Black Forest
-              </Link>
+              </Link>|
               <Link to="/OaPage"
                 style={{ fontSize: "13px" }}
                 className="link-underline-opacity-0 link-underline text-info">Dall-E-3
-              </Link>
+              </Link>|
               <Link to="/About" style={{ fontSize: "13px" }}
                 className="link-underline-opacity-0 link-underline text-info">
                 About

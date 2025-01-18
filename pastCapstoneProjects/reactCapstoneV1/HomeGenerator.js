@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router";
-import Card from "./Card";
 
 export function HomeGenerator() {
   return (
     <>
       <div className="container">
+        <div className="row mt-4"></div>
         <div className="row mt-4">
           <div className="col-8"></div>
           <div className="col-2 d-flex align-items-start">
@@ -74,10 +74,16 @@ export function HomeGenerator() {
             </div>
           </div>
           <div className="col-2">
-            <Card src="img/bfbsrecipe.jpg" />
-            <Card src="img/bfbsingredients.jpg" />
-            <Card src="img/bfcsrecipe.jpg" />
-            <Card src="img/bfcsingredients.jpg" />
+            <div
+              className="card"
+              style={{ width: "100%", backgroundColor: "black" }}
+            >
+              <img
+                src="img/bfbsrecipe.jpg"
+                className="card-img"
+                alt="..."
+              />
+            </div>
             <div
               className="card"
               style={{ width: "100%", backgroundColor: "black" }}
@@ -130,7 +136,6 @@ export function HomeGenerator() {
                 alt="..."
               />
             </div>
-            <Card src="img/openaicsrecipe.jpg" />
             <div
               className="card"
               style={{ width: "100%", backgroundColor: "black" }}
