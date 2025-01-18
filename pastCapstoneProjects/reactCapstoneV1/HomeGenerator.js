@@ -5,7 +5,6 @@ export function HomeGenerator() {
   return (
     <>
       <div className="container">
-        <div className="row mt-4"></div>
         <div className="row mt-4">
           <div className="col-8"></div>
           <div className="col-2 d-flex align-items-start">
