@@ -27,7 +27,7 @@ export function About() {
           </div>
         </div>
       </div>
-      <div className="container mt-4" style={{ minHeight: "25vh" }}>
+      <div className="container mt-4" style={{ minHeight: "20vh" }}>
       </div>
     </>
   )

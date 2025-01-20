@@ -8,7 +8,7 @@ export default function Card(props) {
     >
       <img
         src={props.src}
-        className="card-img img-fluid"
+        className="card-img img-fluid home-image"
         alt="..."
       />
     </div>

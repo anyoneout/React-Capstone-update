@@ -2580,7 +2580,7 @@ function About() {
   }, "chrisdafur@gmail.com")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "container mt-4",
     style: {
-      minHeight: "25vh"
+      minHeight: "20vh"
     }
   }));
 }
@@ -3128,7 +3128,7 @@ function Card(props) {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
     src: props.src,
-    className: "card-img img-fluid",
+    className: "card-img img-fluid home-image",
     alt: "..."
   }));
 }
